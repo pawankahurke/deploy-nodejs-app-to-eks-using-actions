@@ -50,7 +50,7 @@ Now you have connected your aws account using AWS CLI.
 ============================================================================
 # 6:Create Amazon EKS cluster using eksctl
 Create Create EKS Cluster in AWS using eksctl
-eksctl create cluster --name demo-ekscluster --region us-east-1 --version 1.21 --nodegroup-name linux-nodes --node-type t2.micro --nodes 2
+eksctl create cluster --name demo-ekscluster --region us-east-1 --version 1.27 --nodegroup-name linux-nodes --node-type t2.micro --nodes 2
 =============================================================================
 #7:Check nodes in EKS cluster
 To check the details about your node run the below command
