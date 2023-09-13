@@ -1,4 +1,5 @@
 # deploy-nodejs-app-to-eks-using-actions
+launch one instance t2.medium
 =================================================================================
 # 1:Install eksctl CLI tool for creating EKS Clusters on AWS
 download eksctl CLI tool for creating EKS Clusters on AWS
@@ -58,3 +59,10 @@ kubectl get nodes
 kubectl get namespace
 kubectl describe nodes ip-192-168-14-229.us-east-1.compute.internal
 ==========================================================================
+create ecr repository 
+private>reponame>create
+===========================================================================
+Create github repository
+deploy nodejs app to eks using github action
+now clone the repo and open folder in vscode
+
