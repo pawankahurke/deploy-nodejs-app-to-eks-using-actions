@@ -65,3 +65,4 @@ private>reponame>create
 Create github repository
 deploy nodejs app to eks using github action
 now clone the repo and open folder in vscode
+============================================================
