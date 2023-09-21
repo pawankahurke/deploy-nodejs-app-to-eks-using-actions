@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: pawankahurke
-          image: 908198849120.dkr.ecr.ap-south-1.amazonaws.com/pawankahurke:1.1
+          image: 690940206480.dkr.ecr.us-east-1.amazonaws.com/pawankahurke:1.1
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
